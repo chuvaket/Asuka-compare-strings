@@ -1,2 +1,2 @@
 # Asuka-compare-strings
-Asuka compare strings with her rules
+Asuka compares strings with her rules
